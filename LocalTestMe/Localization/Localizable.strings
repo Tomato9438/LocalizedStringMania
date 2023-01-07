@@ -1,0 +1,3 @@
+"ViewControllerLocalTestMe" = "LocalTestMe";
+"ViewControllerWeightLocal %.1f" = "%.1f pounds";
+"ViewControllerPaymentAmount %f" = "I authorize the payment of %f";
